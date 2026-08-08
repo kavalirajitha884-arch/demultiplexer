@@ -1,0 +1,6 @@
+Time=0 din=1 sel=00 output=0001
+Time=10 din=1 sel=01 output=0010
+Time=20 din=1 sel=10 output=0100
+Time=30 din=1 sel=11 output=1000
+Time=40 din=0 sel=00 output=0000
+Time=50 din=0 sel=01 output=0000
